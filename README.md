@@ -16,5 +16,5 @@ HTML: For the structure.
 CSS: To provide basic styling.
 JavaScript: Powers the logic and interactivity.
 WebGL: Drives the fluid dynamics.
-🎥 Demo
-link:
+# 🎥 Demo
+link: https://harshdhiman3344.github.io/FluidSim/
